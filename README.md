@@ -9,9 +9,9 @@ As a software engineer skilled in C++, Java, and SwiftUI, I'm dedicated to build
 <img src="https://github.com/nathangatto/nathangatto/assets/121321077/1c9e2823-85c7-4c63-aaa4-7c4d11bda9c4" width="100" />
 <p>Live football fixtures from the best leagues, converted to your time zone.</p>
 <p float="left">
-  <img src="https://github.com/nathangatto/nathangatto/assets/121321077/3c4f44e4-1910-41b4-803a-adae46fd3747" width="300" />
-  <img src="https://github.com/nathangatto/nathangatto/assets/121321077/c742e614-1be7-4130-925b-df5ed95e2115" width="300" /> 
-  <img src="https://github.com/nathangatto/nathangatto/assets/121321077/afa53fe0-b886-4fc6-ad45-f05c07f4c4c3" width="300" />
+  <img src="https://github.com/nathangatto/nathangatto/assets/121321077/3c4f44e4-1910-41b4-803a-adae46fd3747" width="250" />
+  <img src="https://github.com/nathangatto/nathangatto/assets/121321077/c742e614-1be7-4130-925b-df5ed95e2115" width="250" /> 
+  <img src="https://github.com/nathangatto/nathangatto/assets/121321077/afa53fe0-b886-4fc6-ad45-f05c07f4c4c3" width="250" />
 </p>
 
 
