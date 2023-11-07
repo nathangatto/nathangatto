@@ -1,8 +1,9 @@
-<!-- ![ReadmePhoto](https://github.com/nathangatto/nathangatto/assets/121321077/6f76056d-cd3c-4f2b-b968-4353a922295d) -->
-
 ![ReadmePhoto](https://github.com/nathangatto/nathangatto/assets/121321077/db14519c-a8f2-445b-a5cb-1d6a6cf42616)
-
 As a software engineer skilled in C++, Java, and SwiftUI, I'm dedicated to building iOS projects tailored to meet people's needs. My goal is to create software that stands out for its reliability and user-centric approach.
+
+![xsmall](https://github.com/nathangatto/nathangatto/assets/121321077/70acc86c-4f78-4e7f-b762-0c542e4f3984)
+![linkedin](https://github.com/nathangatto/nathangatto/assets/121321077/b4d11cbc-d1bc-4603-8f23-07895c028055)
+
 
 
 <!--
