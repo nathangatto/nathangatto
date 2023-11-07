@@ -1,7 +1,7 @@
 ![ReadmePhoto](https://github.com/nathangatto/nathangatto/assets/121321077/6f76056d-cd3c-4f2b-b968-4353a922295d)
 
+As a software engineer skilled in C++, Java, and SwiftUI, I'm dedicated to building iOS projects tailored to meet people's needs. My goal is to create software that stands out for its reliability and user-centric approach.
 
-### Hi there 👋
 
 <!--
 **nathangatto/nathangatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
