@@ -7,7 +7,10 @@ As a software engineer skilled in C++, Java, and SwiftUI, I'm dedicated to build
 
 <h1>MatchMate</h1>
 <img src="https://github.com/nathangatto/nathangatto/assets/121321077/1c9e2823-85c7-4c63-aaa4-7c4d11bda9c4" width="100" />
-<p>Live football fixtures from the best leagues, converted to your time zone.</p>
+<p>
+  <br>
+  Live football fixtures from the best leagues, converted to your time zone.
+</p>
 <p>Never miss a match with real-time updates, intuitive navigation, and personalized reminders for each kick-off.</p>
 
 <h4>Key Features</h4>
@@ -25,7 +28,10 @@ As a software engineer skilled in C++, Java, and SwiftUI, I'm dedicated to build
 
 <h1>MovieBuddy</h1>
 <img src="https://github.com/nathangatto/nathangatto/assets/121321077/2519b6d0-6ecf-4b25-afdc-24cc0f4d792f" width="100" />
-<p>Seamlessly track films and showtimes while managing your cinema database at a glance.</p>
+<p>
+  <br>
+  Seamlessly track films and showtimes while managing your cinema database at a glance.
+</p>
 
 <h4>Key Features</h4>
 <ul>
