@@ -1,3 +1,6 @@
+![profile 001](https://github.com/nathangatto/nathangatto/assets/121321077/764b6317-6334-4c96-adc1-3226698cbae1)
+
+
 ### Hi there 👋
 
 <!--
