@@ -5,12 +5,13 @@ As a software engineer skilled in C++, Java, and SwiftUI, I'm dedicated to build
 ![linkedin](https://github.com/nathangatto/nathangatto/assets/121321077/b4d11cbc-d1bc-4603-8f23-07895c028055)
 
 <p float="left">
-  <img src="https://github.com/nathangatto/nathangatto/assets/121321077/d30976c7-6f95-4ed3-b821-de176b3f9a04" width="400" />
-  <img src="https://github.com/nathangatto/nathangatto/assets/121321077/2277ce27-19ba-4356-97ea-52aa55dd28a1" width="400" /> 
+  <img src="https://github.com/nathangatto/nathangatto/assets/121321077/3c4f44e4-1910-41b4-803a-adae46fd3747" width="400" />
+  <img src="https://github.com/nathangatto/nathangatto/assets/121321077/c742e614-1be7-4130-925b-df5ed95e2115" width="400" /> 
 </p>
+
 <p float="left">
-  <img src="https://github.com/nathangatto/nathangatto/assets/121321077/639ac416-f73d-43e4-b592-37e5e80ae95d" width="400" />
-  <img src="https://github.com/nathangatto/nathangatto/assets/121321077/8e15d888-fbdf-4ca2-b41e-874c35029fd1" width="400" />
+  <img src="https://github.com/nathangatto/nathangatto/assets/121321077/afa53fe0-b886-4fc6-ad45-f05c07f4c4c3" width="400" />
+  <img src="https://github.com/nathangatto/nathangatto/assets/121321077/1a79b642-7abc-4a94-bb19-c3a8b1477b5c" width="400" />
 </p>
 
 <!--
