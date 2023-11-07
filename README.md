@@ -23,6 +23,23 @@ As a software engineer skilled in C++, Java, and SwiftUI, I'm dedicated to build
   <img src="https://github.com/nathangatto/nathangatto/assets/121321077/afa53fe0-b886-4fc6-ad45-f05c07f4c4c3" width="250" />
 </p>
 
+<h1>MovieBuddy</h1>
+<img src="https://github.com/nathangatto/nathangatto/assets/121321077/2519b6d0-6ecf-4b25-afdc-24cc0f4d792f" width="100" />
+<p>Seamlessly track films and showtimes while managing your cinema database at a glance.</p>
+
+<h4>Key Features</h4>
+<ul>
+  <li>Robust Database Management: Create, edit, and delete movie and cinema listings using Core Data.</li>
+  <li>Intuitive Search Functionality: Find movies with ease by title, cast, directors, or release date.</li>
+  <li>SwiftUI Interface: Engage with a sleek and user-friendly interface designed for seamless interaction.</li>
+  <li>Comprehensive Movie Listings: Maintain a thorough catalogue of movies and where they're playing.</li>
+</ul>
+<p float="left">
+  <img src="https://github.com/nathangatto/nathangatto/assets/121321077/0e01c166-df7a-40f1-8156-0c098fa1db75" width="250" />
+  <img src="https://github.com/nathangatto/nathangatto/assets/121321077/36b4dc3a-3e94-4cc8-99fc-394ae47d962d" width="250" /> 
+  <img src="https://github.com/nathangatto/nathangatto/assets/121321077/3b4ae4c3-33e2-466c-bbb3-acbdee017154" width="250" />
+</p>
+
 
 
 <!--
