@@ -5,6 +5,48 @@ As a software engineer skilled in C++, Java, and SwiftUI, I'm dedicated to build
 ![linkedin](https://github.com/nathangatto/nathangatto/assets/121321077/b4d11cbc-d1bc-4603-8f23-07895c028055)
 
 
+<h1>Natures Canvas</h1>
+<img src="https://github.com/nathangatto/nathangatto/assets/121321077/fc7b3367-0ed9-4b2e-bd85-233a0857124a" width="100" />
+<p>
+  <br>
+  Transform your device's backdrop with the allure of nature's artistry, customized to your taste.
+</p>
+<p>Select a style and watch as the DALL-E 3 AI conjures up a unique wallpaper that breathes life into your screen.</p>
+
+<h4>Key Features</h4>
+<ul>
+  <li>Integration with OpenAI's DALL-E 3 API for dynamic wallpaper generation.</li>
+  <li>Multiple style selections for personalized aesthetics.</li>
+  <li>Swift and SwiftUI framework for seamless user interface design.</li>
+  <li>Asynchronous networking for real-time wallpaper updating.</li>
+</ul>
+<p float="left">
+  <img src="https://github.com/nathangatto/nathangatto/assets/121321077/a5d62a57-aad2-4022-bf48-c8953c70472d" width="250" />
+  <img src="https://github.com/nathangatto/nathangatto/assets/121321077/4adedf82-1e88-4fef-9eaf-5fe913649f92" width="250" /> 
+  <img src="https://github.com/nathangatto/nathangatto/assets/121321077/38b3b6f8-015b-4f4e-acba-f291ba79e8a6" width="250" />
+</p>
+
+<h1>Word Hunt</h1>
+<img src="https://github.com/nathangatto/nathangatto/assets/121321077/02176d30-e360-403b-a408-e8c75ebce991" width="100" />
+<p>
+  <br>
+  Engage your mind with Word Hunt, a stimulating puzzle game akin to Boggle. Challenge yourself to find new words using a jumbled grid of letters.
+</p>
+<p>Earn points for your linguistic skills, utilizing vowels and consonants strategically to outscore the competition.</p>
+
+<h4>Key Features</h4>
+<ul>
+  <li>Boggle-inspired gameplay for brain-teasing fun.</li>
+  <li>Points awarded for creative use of vowels, consonants and more!</li>
+  <li>Intuitive interface for selecting and forming words.</li>
+  <li>Timer-based challenges to test quick thinking and vocabulary.</li>
+</ul>
+<p float="left">
+  <img src="https://github.com/nathangatto/nathangatto/assets/121321077/ea797c61-53d2-4b9d-b128-847dd92e16dd" width="250" />
+  <img src="https://github.com/nathangatto/nathangatto/assets/121321077/3f8f77dd-175e-4041-a9ae-4488f24d9805" width="250" /> 
+  <img src="https://github.com/nathangatto/nathangatto/assets/121321077/f97a50fd-e568-4a47-a1ce-1a3554ee58da" width="250" />
+</p>
+
 <h1>MatchMate</h1>
 <img src="https://github.com/nathangatto/nathangatto/assets/121321077/1c9e2823-85c7-4c63-aaa4-7c4d11bda9c4" width="100" />
 <p>
